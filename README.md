@@ -55,3 +55,19 @@ Este proyecto es una aplicación web que permite ingresar nombres de amigos en u
 - HTML para la estructura de la página.
 - CSS para los estilos visuales.
 - JavaScript para la lógica del sorteo y manipulación del DOM.
+
+
+
+# Imagenes de funcionamiento
+
+- Agreamos la lista de los nombres:
+   - ![image](https://github.com/user-attachments/assets/ae476f5e-0789-41be-943f-8a69d2da4ae5)
+- Empezamos el sorteo:
+   -  ![image](https://github.com/user-attachments/assets/31d34cae-99c4-4173-85ca-402ab8e8a207)
+   -  ![image](https://github.com/user-attachments/assets/76c407df-844e-4f61-b5f1-03d1a9774955)
+   -  ![image](https://github.com/user-attachments/assets/9da41584-7db4-40c4-9033-907a437dd102)
+- Finalizamos el sorteo y si queremos volver a intentarlo, sale mensaje de Alerta, ya que no tenemos mas nombres por sortear de la lista
+   -  ![image](https://github.com/user-attachments/assets/18c9ee31-78b0-4ef4-bc09-f50e2e1f10e5)
+
+
+
